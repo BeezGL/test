@@ -10,3 +10,8 @@ p{
 .mopsek{
     border: 3px solid magenta;
 }
+
+hr{
+    width: 50%;
+    size: 3px;
+}
